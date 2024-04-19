@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_webrtc import webrtc_streamer, VideoProcessorBase, WebRtcMode
 
 
+
 class CameraProcessor(VideoProcessorBase):
     def recv(self, frame):
         return frame
