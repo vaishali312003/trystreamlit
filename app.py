@@ -4,7 +4,7 @@ def main():
     st.title("")
     html_temp = """
     <div style="background-color:Green;padding:10px">
-    <h2 style="color:red;text-align:center;">Streamlit Image uploader</h2>
+    <h2 style="color:Dark-Green;text-align:center;">Streamlit Image uploader</h2>
     </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
