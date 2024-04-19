@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("")
+    st.title("IMAGE UPLOAD HERE")
     html_temp = """
     <div style="background-color:Green;padding:10px">
     <h2 style="color:Dark-Green;text-align:center;">Streamlit Image uploader</h2>
