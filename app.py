@@ -21,10 +21,6 @@ img.show()
 
 display(img)
 
-
-
-pip install streamlit
-
 import streamlit as st
 
 import streamlit as st
